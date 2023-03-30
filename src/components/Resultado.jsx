@@ -5,7 +5,7 @@ const Contenedor = styled.div`
   font-family: "Lato", sans-serif;
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 5rem;
   margin-top: 30px;
 `;
 
